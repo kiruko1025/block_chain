@@ -2,6 +2,7 @@
 made for CSC598
 has  a helloworld contract and a voting contract
 # How to use
+To deploy locally
 ```
 npx hardhat compile
 ```
